@@ -1,0 +1,52 @@
+{
+  "user": [
+    {
+      "id": 112,
+      "email": "ex@example.com",
+      "nickname": "country_can_be_loaded",
+      "firstName": "Е",
+      "lastName": "T",
+      "avatars1": [
+        {
+          "id": 1,
+          "url": "https://www.google.com/photos/static/2020/images/logo_photos_192px.png"
+        },
+        {
+          "id": 2,
+          "url": "https://www.google.com/photos/static/2020/images/index/devices_mobile.jpg"
+        }
+      ],
+      "avatars2": [
+        {
+          "id": 1,
+          "url": "https://www.google.com/photos/static/2020/images/logo_photos_192px.png"
+        },
+        {
+          "id": 2,
+          "url": "https://www.google.com/photos/static/2020/images/index/devices_mobile.jpg"
+        }
+      ],
+      "created": "2022-09-20T17:00:22.496981Z",
+      "city": "yerevan",
+      "bio": "fffffтптапрт",
+      "isProfileActivatedEmailSent": true,
+      "type": "user",
+      "status": "active",
+      "userStreamingStatus": "offline",
+      "followersCount": 0,
+      "videosCount": 0,
+      "postsCount": 4,
+      "communityFollowsCount": 8,
+      "streamViewsCount": 0,
+      "commentsCount": 43,
+      "ipBalance": 580,
+      "isFollowing": false,
+      "dateOfBirth": "1988-10-10T09:00:00Z",
+      "country": {
+        "id": 4,
+        "name": "Afghanistan",
+        "shortName": "AFG"
+      }
+    }
+  ]
+}
